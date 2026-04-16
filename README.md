@@ -22,9 +22,8 @@ Key Insights---: Gives a quick summary of overall customer base and performance
 Dashboard Screenshot---
                <img width="879" height="505" alt="CHURN AND RETENTION" src="https://github.com/user-attachments/assets/4212a6f9-c52d-4d84-905c-191a22e150ec" />
 <img width="882" height="502" alt="Customer overview" src="https://github.com/user-attachments/assets/8e4e873a-5d36-49fe-a478-35b8401b7956" />
-<img width="881" height="508" alt="customer segment " src="https://github.com/user-attachments/assets/fe185912-adca-4a29-b9ac-f0c06a56d844" />
-<img width="887" height="490" alt="ENGAGEMENT ANALYSIS " src="https://github.com/user-attachments/assets/2332d710-2a42-4247-a03c-cb87c39ecb5d" />
-<img width="873" height="507" alt="REVENUE" src="https://github.com/user-attachments/assets/40f05cd1-c36f-4da1-aefd-6c16817dcfae" />
+
+
 
 
 
